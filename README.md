@@ -17,7 +17,7 @@ As the user types, each requirement is validated and visually indicated with a c
 
 ## Screenshot
 
-![Password Validation Form Screenshot](https://imgg.io/image/yCUTf)
+![Password Validation Form Screenshot](img.gif)
 
 ## Technologies Used
 
